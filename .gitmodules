@@ -1,0 +1,3 @@
+[submodule "book-library-frontend"]
+	path = book-library-frontend
+	url = https://github.com/shreyakoyangodu/book-library-frontend.git
